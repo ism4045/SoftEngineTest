@@ -6,7 +6,7 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello I'm main Branch!");
+            Console.WriteLine("Hello I'm First Branch");
         }
     }
 }
